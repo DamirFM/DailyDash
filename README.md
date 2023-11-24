@@ -8,7 +8,7 @@ DailyDash is a user-friendly web application designed to assist in organizing da
 
 ## Link of deployed application.
 
-
+https://damirfm.github.io/DailyDash/
 
 ## Screenshots of application
 
