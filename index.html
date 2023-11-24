@@ -14,7 +14,7 @@
     integrity="sha256-iu/zLUB+QgISXBLCW/mcDi/rnf4m4uEDO0wauy76x7U=" crossorigin="anonymous"></script>
 
   <link rel="stylesheet" href="./assets/css/style.css" />
-  <title>Work Day Scheduler</title>
+  <title>DailyDash</title>
 </head>
 
 <body>
@@ -24,18 +24,22 @@
     <p id="currentDay" class="lead"></p>
   </header>
   <div class="container-lg px-5">
-    <!-- Use class for "past", "present", and "future" to apply styles to the
-        time-block divs accordingly. The javascript will need to do this by
-        adding/removing these classes on each div by comparing the hour in the
-        id to the current hour. The html provided below is meant to be an example
-        demonstrating how the css provided can be leveraged to create the
-        desired layout and colors. The html below should be removed or updated
-        in the finished product. Remember to delete this comment once the
-        code is implemented.
-        -->
 
-    <!-- Example of a past time block. The "past" class adds a gray background color. -->
+    <!-- when user clicking to the button wich has class="btn"
+function will save data from sibling textarea and will get the
+ID of paren element
+
+Right after that Id and data will store in local storage-->
+
+    <!-- timeBlock.each function will iterate every element whith the class
+.time-block
+varible blockHour will parse the parent ID into array and transform value
+to the nubmer. This number we will compare with the current hour.
+As result of previous operations block color will change  -->
+
+    <!-- parent -->
     <div id="hour-9" class="row time-block ">
+      <!-- siblings -->
       <div class="col-2 col-md-1 hour text-center py-3">9AM</div>
       <textarea class="col-8 col-md-10 description" rows="3"> </textarea>
       <button class="btn saveBtn col-2 col-md-1" aria-label="save">
@@ -43,7 +47,7 @@
       </button>
     </div>
 
-    <!-- Example of a a present time block. The "present" class adds a red background color. -->
+
     <div id="hour-10" class="row time-block ">
       <div class="col-2 col-md-1 hour text-center py-3">10AM</div>
       <textarea class="col-8 col-md-10 description" rows="3"> </textarea>
@@ -52,7 +56,7 @@
       </button>
     </div>
 
-    <!-- Example of a future time block. The "future" class adds a green background color. -->
+
     <div id="hour-11" class="row time-block ">
       <div class="col-2 col-md-1 hour text-center py-3">11AM</div>
       <textarea class="col-8 col-md-10 description" rows="3"> </textarea>

@@ -1,14 +1,14 @@
 # Welcome to DailyDash 📅
 
-
+DailyDash is daily planning, making it convenient to manage and keep track of activities within a structured timeline.
 
 ## Description
 
-The quiz on HTML, CSS, and JS is designed to engage participants in an interactive and educational exploration of web development fundamentals. Through a series of thoughtfully crafted questions, it challenges your understanding of these core technologies. Each question presents a scenario or concept, prompting you to apply your knowledge and select the correct answer. For every each wrong answer timer will decrement 10 seconds of you time, but for correct you will get 100 points.
+DailyDash is a user-friendly web application designed to assist in organizing daily tasks or events within specific time blocks. Users can input and save task details for different hours of the day, enabling efficient planning and management of activities.
 
 ## Link of deployed application.
 
-https://damirfm.github.io/CodeCrunch-Quiz/
+
 
 ## Screenshots of application
 
@@ -24,44 +24,27 @@ https://damirfm.github.io/CodeCrunch-Quiz/
 
 ![Alt text](./Screenshots/3.png "Correct answer alert")
 
-### Next question
-
-![Alt text](./Screenshots/4.png "Next question")
-
-### Next question
-
-![Alt text](./Screenshots/5.png "Next question")
-
-### Finish quiz alert
-
-![Alt text](./Screenshots/6.png "Finish quiz alert")
-
-### User name input
-
-![Alt text](./Screenshots/7.png "User name input")
-
-### List of saved scores
-
-![Alt text](./Screenshots/8.png "List of saved scores")
-
-
 ## Installation
 
 N/A
 
 ## Usage
 
-To see the this codebase, you can review the updated HTML and CSS files here or clone this repo into your workstation. For your convenience, you can also check the ISSUES of this project. There you will see a list of topics that have been changed.
+- User can enter  task descriptions or event notes in the corresponding hour's text area.
+- User click the save button to store the entered information locally for future reference.
+- Blocks change color to indicate past, present, and future hours, aiding in organizing and prioritizing tasks throughout the day.
 
 ## Credits
 
 For doing this job I used this helpful resources: 
 
-- https://www.w3schools.com/jsref/met_win_clearinterval.asp 
-- https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
-- https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild
-- https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
-- https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
+- https://api.jquery.com/on/#on-events-selector-data
+- https://api.jquery.com/attr/#attr-attributeName
+- https://api.jquery.com/find/#find-selector
+- https://day.js.org/docs/en/display/format
+- https://api.jquery.com/addClass/#addClass-className
+
 ## License
 
 MIT License
@@ -69,8 +52,11 @@ MIT License
 ## Badges
 
 
+<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)" /> 
+
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />    
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  
+
