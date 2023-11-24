@@ -14,17 +14,8 @@ DailyDash is a user-friendly web application designed to assist in organizing da
 
 ### Welcome screen
 
-![Alt text](./Screenshots/1.png "Welcome screen")
+![Alt text](./Screenshots/1.png "Current and Future tasks")
 
-### Question page
-
-![Alt text](./Screenshots/2.png "Question page")
-
-### Correct answer alert
-
-![Alt text](./Screenshots/3.png "Correct answer alert")
-
-## Installation
 
 N/A
 
