@@ -6,6 +6,14 @@ DailyDash is daily planning, making it convenient to manage and keep track of ac
 
 DailyDash is a user-friendly web application designed to assist in organizing daily tasks or events within specific time blocks. Users can input and save task details for different hours of the day, enabling efficient planning and management of activities.
 
+## Table of content
+
+- [Link of deployed application](#Link)
+- [Usage](#Usage)
+- [Credits](#Credits)
+- [License](#License)
+- [License](#License)
+
 ## Link of deployed application.
 
 https://damirfm.github.io/DailyDash/
@@ -39,6 +47,8 @@ For doing this job I used this helpful resources:
 ## License
 
 MIT License
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
 
 ## Badges
 
