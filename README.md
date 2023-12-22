@@ -3,6 +3,7 @@
 DailyDash is daily planning, making it convenient to manage and keep track of activities within a structured timeline.
 
 ## Description
+<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  
 
 DailyDash is a user-friendly web application designed to assist in organizing daily tasks or events within specific time blocks. Users can input and save task details for different hours of the day, enabling efficient planning and management of activities.
 
@@ -12,7 +13,7 @@ DailyDash is a user-friendly web application designed to assist in organizing da
 - [Usage](#Usage)
 - [Credits](#Credits)
 - [License](#License)
-- [License](#License)
+- [Questions](#Questions)
 
 ## Link of deployed application.
 
@@ -50,13 +51,13 @@ MIT License
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
 
-## Badges
+## Questions
+If you have any questions or issues, please feel free to reach out:
+- GitHub:[https://github.com/DamirFM]
 
-<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)" /> 
+Do not hesitate to reach me with additional questions on my Email 
+- Email:[yakupovdamir93@gmail.com]
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />    
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  
 
