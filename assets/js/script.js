@@ -69,7 +69,6 @@ $(function () {
     // if $(this) represents one of the .time-block div elements, 
     // this line retrieves the value of the id attribute associated with that particular div.
 
-
     let blockId = $(this).attr('id');
     let savedInput = localStorage.getItem(blockId);
 
