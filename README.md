@@ -19,8 +19,6 @@ DailyDash is a user-friendly web application designed to assist in organizing da
 
 https://damirfm.github.io/DailyDash/
 
-## Screenshots of application
-
 ### Welcome screen
 
 ![Alt text](./Screenshots/1.png "Current and Future tasks")
